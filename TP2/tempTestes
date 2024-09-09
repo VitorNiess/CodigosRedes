@@ -1,0 +1,96 @@
+Testes TP ->
+
+	1 - 10 segundos com 15 clientes
+	2 - 10 segundos com 50 clientes
+	3 - 10 segundos com 100 clientes
+	4 - 10 segundos com 255 clientes *max do siege*
+	
+Questão 1:
+15 clientes: 268 hits, 0 misses - longest 1,04 segundos
+15 clientes: 262 hits, 0 misses - longest 1,04 segundos
+15 clientes: 274 hits, 0 misses - longest 1,04 segundos
+15 clientes: 292 hits, 0 misses- longest 1,03 segundos
+
+50 clientes: 777 hits, 0 misses - longest 3,46 segundos
+50 clientes: 857 hits, 0 misses - longest 3,05 segundos
+50 clientes: 800 hits, 0 misses - longest 3,25 segundos
+50 clientes: 837 hits, 0 misses - longest 3,05 segundos
+
+100 clientes: 1178 hits, 0 misses - longest 7,84 segundos 
+100 clientes: 1213 hits, 0 misses - longest 8,09 segundos
+100 clientes: 1368 hits, 0 misses - longest 7,76 segundos
+100 clientes: 1448 hits, 0 misses - longest 7,53 segundos
+
+255 clientes: 2871 hits, 0 misses - longest 7,73 segundos 
+255 clientes: 2222 hits, 0 misses - longest 8,82 segundos
+255 clientes: 2264 hits, 0 misses - longest 7,83 segundos
+255 clientes: 2831 hits, 0 misses - longest 7,80 segundos
+
+---------------------------------------------------------------------------------
+
+Questão 2:
+15 clientes: 256 hits, 0 misses - longest 1,04 segundos
+15 clientes: 289 hits, 0 misses - longest 1,01 segundos
+15 clientes: 286 hits, 0 misses - longest 0,02 segundos
+15 clientes: 277 hits, 0 misses- longest 0,20 segundos
+
+50 clientes: 897 hits, 0 misses - longest 3,24 segundos
+50 clientes: 800 hits, 0 misses - longest 3,25 segundos
+50 clientes: 796 hits, 0 misses - longest 3,24 segundos
+50 clientes: 839 hits, 0 misses - longest 3,06 segundos
+
+100 clientes: 1639 hits, 0 misses - longest 4,73 segundos 
+100 clientes: 1639 hits, 0 misses - longest 7,27 segundos
+100 clientes: 1582 hits, 0 misses - longest 3,87 segundos
+100 clientes: 1401 hits, 0 misses - longest 4,36 segundos
+
+255 clientes: 2606 hits, 0 misses - longest 7,69 segundos 
+255 clientes: 3452 hits, 0 misses - longest 7,51 segundos
+255 clientes: 3063 hits, 0 misses - longest 7,75 segundos
+255 clientes: 2599 hits, 0 misses - longest 8,17 segundos
+
+---------------------------------------------------------------------------------
+
+Questão 3:
+15 clientes: 291 hits, 0 misses - longest 0,01 segundos
+15 clientes: 265 hits, 0 misses - longest 1,02 segundos
+15 clientes: 272 hits, 0 misses - longest 1,03 segundos
+15 clientes: 296 hits, 0 misses- longest 0,01 segundos
+
+50 clientes: 877 hits, 0 misses - longest 1,03 segundos
+50 clientes: 966 hits, 0 misses - longest 1,04 segundos
+50 clientes: 898 hits, 0 misses - longest 1,04 segundos
+50 clientes: 826 hits, 0 misses - longest 1,23 segundos
+
+100 clientes: 1717 hits, 0 misses - longest 3,25 segundos 
+100 clientes: 1808 hits, 0 misses - longest 1,87 segundos
+100 clientes: 1835 hits, 0 misses - longest 3,03 segundos
+100 clientes: 1723 hits, 0 misses - longest 3,05 segundos
+
+255 clientes: 3326 hits, 0 misses - longest 7,92 segundos 
+255 clientes: 3915 hits, 0 misses - longest 2,70 segundos
+255 clientes: 3697 hits, 0 misses - longest 6,41 segundos
+255 clientes: 4118 hits, 0 misses - longest 4,74 segundos
+
+---------------------------------------------------------------------------------
+
+Questão 4:
+15 clientes: 284 hits, 0 misses - longest 0,02 segundos
+15 clientes: 268 hits, 0 misses - longest 0,02 segundos
+15 clientes: 291 hits, 0 misses - longest 0,02 segundos
+15 clientes: 297 hits, 0 misses- longest 0,02 segundos
+
+50 clientes: 620 hits, 0 misses - longest 1,28 segundos
+50 clientes: 815 hits, 0 misses - longest 1,30 segundos
+50 clientes: 875 hits, 0 misses - longest 1,22 segundos
+50 clientes: 912 hits, 0 misses - longest 1,05 segundos
+
+100 clientes: 1518 hits, 0 misses - longest 1,45 segundos 
+100 clientes: 1659 hits, 0 misses - longest 1,46 segundos
+100 clientes: 1538 hits, 0 misses - longest 2,22 segundos
+100 clientes: 1354 hits, 0 misses - longest 1,27 segundos
+
+255 clientes: 2464 hits, 0 misses - longest 3,09 segundos 
+255 clientes: 2669 hits, 0 misses - longest 3,28 segundos
+255 clientes: 3779 hits, 0 misses - longest 3,27 segundos
+255 clientes: 3162 hits, 0 misses - longest 3,06 segundos
